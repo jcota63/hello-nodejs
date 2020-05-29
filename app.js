@@ -1,0 +1,1 @@
+console.log("Hello eduard0!\n");
